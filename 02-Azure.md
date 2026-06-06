@@ -91,7 +91,7 @@ Purpose:
 Deployed DC01 Server in the Management Subnets
 
 Purpose:
-- Install Active Directory to centrally manage workloads
+- To install Active Directory to centrally manage workloads
 
 <img width="1366" height="496" alt="DC01" src="https://github.com/user-attachments/assets/bd964cf3-d8e2-4c04-bfa6-5d2c4e9b3db8" />
 
