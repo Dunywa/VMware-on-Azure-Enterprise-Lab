@@ -70,7 +70,7 @@ Azure Subscription
 ```
 ## Architecture Diagram
 
-<img width="1536" height="1024" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/fc8fd925-250b-4ab7-bf23-9be11a3d6852" />
+<img width="1536" height="1024" alt="Architecture Diagram 2" src="https://github.com/user-attachments/assets/8df56d03-57e6-468c-a35d-a1fcf23f1160" />
 
 ---
 
@@ -225,6 +225,7 @@ Enabled Features:
 
 | Server | Function |
 | --- | --- |
+| vCenter01 | vCenter Server Appliance |
 | APP01 | Application Server |
 | SQL01 | Database Server |
 | WEB01 | Web Server |
