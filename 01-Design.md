@@ -52,7 +52,7 @@ Azure Subscription
 ├── Management Services
 │   ├── Jump01
 │   ├── DC01
-│   └── vCenter01
+
 │
 ├── Storage Services
 │   └── Storage01
@@ -62,6 +62,7 @@ Azure Subscription
 │   └── ESXI02
 │
 └── Workload Virtual Machines
+    |── vCenter01
     ├── APP01
     ├── SQL01
     ├── WEB01
