@@ -1,5 +1,8 @@
 # VMware Environment
 
+![image]([https://github.com](https://github.com/Dunywa/VMware-on-Azure-Enterprise-Lab/blob/a0badb4a8f10eecb772e4a4c6bdea3987a3901b6/Diagrams/readme.md%20banner.png)
+
+
 ## Project Overview
 
 This project demonstrates the design, deployment, and administration of an enterprise VMware environment hosted in Microsoft Azure using nested virtualization.
