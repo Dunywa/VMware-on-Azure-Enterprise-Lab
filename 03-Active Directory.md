@@ -1,5 +1,7 @@
 # Phase 3 - Active Directory Deployment
 
+Installed AD DS, DNS, and deployed the corp.local domain.
+
 ## Overview
 
 The purpose of this phase was to deploy centralized identity and name resolution services for the VMware environment.
