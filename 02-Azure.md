@@ -19,32 +19,65 @@ The Azure environment provides the foundational infrastructure required to host 
 
 RG-VMWARE-LAB
 
+<img width="955" height="567" alt="RG-VMWARE-LAB" src="https://github.com/user-attachments/assets/00bb157e-ac0d-4df8-a9db-0a312b2af580" />
+
 ### Virtual Network
 
 VNET-VMWARE-LAB
 
-### Subnets
+<img width="951" height="601" alt="VNET-VMWARE-LAB" src="https://github.com/user-attachments/assets/78e94649-3ab0-4014-a771-674a4c73578e" />
 
-Management Subnet
 
-Used for:
+#### Address Space
 
-- Domain Controller
-- vCenter
-- Management Services
+```
+10.0.0.0/16
+```
 
-Server Subnet
+---
 
-Used for:
+#### Subnets
 
-- Storage Server
+<img width="954" height="496" alt="Subnets" src="https://github.com/user-attachments/assets/979edbb1-1608-48d8-ab43-320e58f39cec" />
+
+***Management Subnet***
+
+```
+10.0.1.0/24
+```
+
+Purpose:
+
+- DC01
+- vCenter01
+- Jump01
+
+---
+
+***Server Subnet***
+
+```
+10.0.2.0/24
+```
+
+Purpose:
+
+- Storage01
 - Workload Servers
 
-VMware Subnet
+---
 
-Used for:
+***VMware Subnet***
 
-- ESXi Hosts
+```
+10.0.3.0/24
+```
+
+Purpose:
+
+- ESXI01
+- ESXI02
+
 
 ## Outcome
 
