@@ -108,7 +108,8 @@ The following validation tests were completed:
 
 Screenshot:
 
-<img width="1366" height="496" alt="DC01" src="https://github.com/user-attachments/assets/cb9c8720-0fa7-4e50-94f3-6f649766a739" />
+<img width="1310" height="506" alt="Domain Controller" src="https://github.com/user-attachments/assets/d4dedf0e-d391-498f-a49a-c5ec6b29da97" />
+
 
 ### Active Directory Users and Computers
 
