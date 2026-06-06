@@ -1,7 +1,4 @@
-# VMware Environment
-
-![image]([https://github.com](https://github.com/Dunywa/VMware-on-Azure-Enterprise-Lab/blob/a0badb4a8f10eecb772e4a4c6bdea3987a3901b6/Diagrams/readme.md%20banner.png)
-
+<img width="1536" height="1024" alt="readme md banner" src="https://github.com/user-attachments/assets/0058a8a3-3fa9-4afb-978b-25c31c36fa6e" />
 
 ## Project Overview
 
