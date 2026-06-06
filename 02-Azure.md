@@ -1,5 +1,7 @@
 # Phase 2 - Azure Infrastructure
 
+Created Resource Groups, Virtual Networks, and Azure virtual machines.
+
 ## Overview
 
 The Azure environment provides the foundational infrastructure required to host the VMware lab.
