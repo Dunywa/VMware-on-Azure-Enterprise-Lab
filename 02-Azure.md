@@ -36,7 +36,7 @@ VNET-VMWARE-LAB
 
 ---
 
-#### Subnets
+### Subnets
 
 <img width="954" height="496" alt="Subnets" src="https://github.com/user-attachments/assets/979edbb1-1608-48d8-ab43-320e58f39cec" />
 
@@ -79,6 +79,21 @@ Purpose:
 - ESXI02
 - vCenter01
 
+- 
+###  Azure Virtual Machines
+Deployed JumpBox01 PC in Management Subnet
+
+Purpose:
+- To manage the environment
+
+<img width="1236" height="680" alt="JumpBox01" src="https://github.com/user-attachments/assets/66aa371c-1e1a-4e63-b9fd-886b7f6d0ccb" />
+
+Deployed DC01 Server in the Management Subnets
+
+Purpose:
+- Install Active Directory to centrally manage workloads
+
+<img width="1366" height="496" alt="DC01" src="https://github.com/user-attachments/assets/bd964cf3-d8e2-4c04-bfa6-5d2c4e9b3db8" />
 
 ## Outcome
 
