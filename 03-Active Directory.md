@@ -1,6 +1,6 @@
 # Phase 3 - Active Directory Deployment
 
-Installed AD DS, DNS, and deployed the corp.local domain.
+Installed AD DS, DNS, and deployed the inmspspace.com domain.
 
 ## Overview
 
@@ -25,7 +25,7 @@ Enterprise environments rely on Active Directory and DNS to provide authenticati
 ### Domain Name
 
 ```
-corp.local
+inmspspace.com
 ```
 
 ### Domain Controller
@@ -54,7 +54,7 @@ The Active Directory Domain Services role was installed on DC01 and promoted to 
 ### Forest Configuration
 
 ```
-corp.local
+inmspspace.com
 ```
 
 ---
@@ -68,7 +68,7 @@ DNS was configured to provide internal name resolution.
 ### Forward Lookup Zone
 
 ```
-corp.local
+inmspspace.com
 ```
 
 ### DNS Responsibilities
@@ -87,7 +87,7 @@ The following administrative accounts were created:
 | --- | --- |
 | administrator | Domain Administration |
 | vmwareadmin | VMware Administration |
-| helpdesk | Support Operations |
+
 
 ---
 
@@ -106,27 +106,22 @@ The following validation tests were completed:
 
 ### Domain Controller
 
-Insert screenshot:
+Screenshot:
 
-```
-screenshots/03-AD/DC01-Overview.png
-```
+<img width="1366" height="496" alt="DC01" src="https://github.com/user-attachments/assets/cb9c8720-0fa7-4e50-94f3-6f649766a739" />
 
 ### Active Directory Users and Computers
 
-Insert screenshot:
+Screenshot:
 
-```
-screenshots/03-AD/ADUC.png
-```
+<img width="1095" height="636" alt="Active Directory Users and Computers" src="https://github.com/user-attachments/assets/b4d268f3-6a84-4715-b6b8-814a02c59aa9" />
 
 ### DNS Manager
 
-Insert screenshot:
+Screenshot:
 
-```
-screenshots/03-AD/DNS-Zone.png
-```
+<img width="1179" height="655" alt="DNS Manager" src="https://github.com/user-attachments/assets/48514b49-74a0-4748-b257-6cf97ea477a3" />
+
 
 ---
 
