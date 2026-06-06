@@ -68,6 +68,9 @@ Azure Subscription
     ├── FILE01
     └── TEST01
 ```
+## Architecture Diagram
+
+<img width="1536" height="1024" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/fc8fd925-250b-4ab7-bf23-9be11a3d6852" />
 
 ---
 
@@ -287,33 +290,8 @@ The project will be considered successful when:
 
 ---
 
-# Screenshots
 
-## Architecture Diagram
 
-Insert Screenshot:
-
-```
-screenshots/01-Design/Architecture-Diagram.png
-```
-
-## Network Design
-
-Insert Screenshot:
-
-```
-screenshots/01-Design/Network-Design.png
-```
-
-## Solution Overview
-
-Insert Screenshot:
-
-```
-screenshots/01-Design/Solution-Overview.png
-```
-
----
 
 # Outcome
 
