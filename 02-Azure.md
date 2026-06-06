@@ -49,7 +49,7 @@ VNET-VMWARE-LAB
 Purpose:
 
 - DC01
-- vCenter01
+
 - Jump01
 
 ---
@@ -77,6 +77,7 @@ Purpose:
 
 - ESXI01
 - ESXI02
+- vCenter01
 
 
 ## Outcome
