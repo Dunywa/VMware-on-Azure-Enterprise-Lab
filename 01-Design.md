@@ -1,4 +1,8 @@
-# Project Overview
+# Phase 1 - Design
+
+Designed the architecture, networking, storage, VMware, and Active Directory components.
+
+## Overview
 
 This project was designed to simulate a small-to-medium enterprise VMware environment hosted within Microsoft Azure. The objective was to gain hands-on experience with virtualization, identity services, storage, networking, high availability, and infrastructure troubleshooting in a controlled lab environment.
 
@@ -6,7 +10,7 @@ The design emphasizes enterprise best practices by separating management, storag
 
 ---
 
-# Project Objectives
+# Objectives
 
 ## Primary Objectives
 
